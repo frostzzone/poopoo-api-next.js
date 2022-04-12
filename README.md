@@ -1,34 +1,27 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# PooPoo API - A very simple api you might use
 
-## Getting Started
+## 🚩 About
+PooPoo API is an Application Programming Interface ("API") which makes your coding life easier by providing some pre-made codes that you can use in your Discord Bots, websites, etc. Some crediting would be nice, but not mandatory.
+* Developers: frostzzone#4485 (Lead Developer), Retro#2448 (API Developer), Eruption#8390 (Website Designer).
+* Website: https://api.frostzzone.repl.co/.
+* Package: https://www.npmjs.com/package/poopoo-api.
+* Discord Server: https://discord.gg/MfEXDm5mr6.
 
-First, run the development server:
+## 🔎 Features
+More features will be added in the future!
+* Image Downloader: An API that can download images.
+* Github Info: An API that can fetch a Github's user info.
+* Password Generator: An API that can generate a random and **unique** password.
+* QOTD: An API that can generate random questions everytime you refresh the page.
+* Binary Encoder: An API to encode a text to binary.
+* Binary Decoder: An API to decode binary to text.
+* Annoying Discord Spoilers: An API to make annoying Discord Spoilers.
+* Remove Emojis/Characters: An API to remove stuff from texts.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## 🔨 Contributions
+Contribution of any kinds are appreciated, simply crediting the API when you use it would work, or you can go further to report bugs, open issues, add more features through pull requests, etc. To get started:
+* Clone the project. Run `git clone https://github.com/frostzzone/poopoo-api`.
+* Run on node.js with express and nodemon (for anti crash).
+* Run `rs` in console to restart manually.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+~~The API is very bad that's why it's called PooPoo API~~
